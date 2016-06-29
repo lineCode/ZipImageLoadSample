@@ -1,0 +1,23 @@
+{
+  "name": "ZipImageLoadSample",
+  "version": "1.0.0",
+  "description": "Electron application image load from zip file",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanemu/ZipImageLoadSample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takanemu/ZipImageLoadSample/issues"
+  },
+  "homepage": "https://github.com/takanemu/ZipImageLoadSample#readme",
+  "devDependencies": {
+    "node-zip": "^1.1.1"
+  }
+}
